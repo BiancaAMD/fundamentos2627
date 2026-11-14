@@ -6,4 +6,4 @@ apto : bool = True
 print(f"Usuario: {usuario}, Tipo: {type(usuario)}")
 print(f"Edad: {edad}, Tipo: {type(edad)}")
 print(f"Media: {nota}, Tipo: {type(nota)}")
-print(f"Usted es: {apto}, Tipo: {type(apto)}")
+print(f"Apto: {apto}, Tipo: {type(apto)}")
